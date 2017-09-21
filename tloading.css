@@ -1,0 +1,19 @@
+#loading{
+    position: fixed;
+    bottom: 200px;
+    left: 0;
+    width: 80px;
+    height: 80px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+}
+#loading img{
+    margin-top: 15px;
+}
+#loading p{
+    height: 20px;
+    line-height: 20px;
+}
